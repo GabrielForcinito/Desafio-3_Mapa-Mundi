@@ -17,8 +17,8 @@ Projeto desenvolvido em HTML com o objetivo de praticar a organização de image
 ## 📷 Preview
 
 <img width="674" height="450" alt="image" src="https://github.com/user-attachments/assets/de1b0d61-a01f-40eb-97a4-62083b9d38c8" />
-
 <img width="320" height="44" alt="image" src="https://github.com/user-attachments/assets/0dfbc63b-c772-462f-b0a8-d27ede2501b1" />
+
 
 ## 💻 Como executar
 
